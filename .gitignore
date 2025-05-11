@@ -1,0 +1,38 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Output files
+# *.csv
+# *.xlsx
+# *.png
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+site-packages/
+dist/
+build/
+*.egg-info/
