@@ -24,7 +24,7 @@ This project is a Python-based web scraper that extracts non-sponsored, non-Amaz
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/amazon-soft-toys-scraper.git
+   git clone https://github.com/yash-8923/amazon-scrape.git
    cd amazon-soft-toys-scraper
    ```
 
@@ -57,7 +57,7 @@ This project is a Python-based web scraper that extracts non-sponsored, non-Amaz
 
 1. **Run the Script**:
    ```bash
-   python amazon_soft_toys_scraper_analyzer_v8.py
+   python amazon.py
    ```
 
 2. **Output Files**:
